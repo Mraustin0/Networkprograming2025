@@ -3,6 +3,28 @@
 
 A weekly lab-based journey from classical sockets to future networks. Building one network agreement in Python every week—simple first, then fragile, then strange.
 
+## Assignment
+
+| # | Link |
+|---|------|
+| Assignment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
+| Assignment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
+| Assignment 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
+| Assignment 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
+
+## Lab
+
+| # | Link |
+|---|------|
+| Lab 1 | [View](https://drive.google.com/drive/folders/1lrjBh2rPB_R8hAyiQWnC_tRvXePCeC58) |
+| Lab 2 | [View](https://drive.google.com/drive/folders/1gKxVp7Msv1goAc-qVjaii3n9J7L3oZjL) |
+| Lab 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
+| Lab 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
+
+## Final Project – LivingBioNetwork
+
+[View Project](https://drive.google.com/drive/folders/1X2T8bJzwBWj4mMlwfqscObfP7YfmPsjm)
+
 ## Course Philosophy
 
 Networks are not cables and boxes. **They are agreements under uncertainty.** You already know IP addressing and routing. Now we program behavior.
@@ -127,28 +149,6 @@ networkprogramming2025/
 - Opportunistic routing (probability-based)
 - Bio-inspired networking (pheromone routing)
 - Quantum-inspired concepts (one-time tokens, secure messaging)
-
-## Assignment
-
-| # | Link |
-|---|------|
-| Assignment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
-| Assignment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
-| Assignment 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
-| Assignment 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
-
-## Lab
-
-| # | Link |
-|---|------|
-| Lab 1 | [View](https://drive.google.com/drive/folders/1lrjBh2rPB_R8hAyiQWnC_tRvXePCeC58) |
-| Lab 2 | [View](https://drive.google.com/drive/folders/1gKxVp7Msv1goAc-qVjaii3n9J7L3oZjL) |
-| Lab 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
-| Lab 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
-
-## Final Project – LivingBioNetwork
-
-[View Project](https://drive.google.com/drive/folders/1X2T8bJzwBWj4mMlwfqscObfP7YfmPsjm)
 
 ## Getting Started
 
