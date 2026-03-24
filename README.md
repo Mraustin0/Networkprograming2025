@@ -1,5 +1,5 @@
-## portfolio นาย ภควัฒน์ สุขมณี 673380418-9 Sec 3
-# Python Network Programming 2025
+# portfolio นาย ภควัฒน์ สุขมณี 673380418-9 Sec 3
+## Network Programming 2025
 
 A weekly lab-based journey from classical sockets to future networks. Building one network agreement in Python every week—simple first, then fragile, then strange.
 
@@ -148,6 +148,5 @@ python client.py
 
 Networks are inherently uncertain. This curriculum teaches you to build programs that acknowledge failure, handle it, and communicate despite it.
 
----
 
 **Current Status**: Weeks 1-7 implemented with all core functionality. Weeks 8-10 ready for implementation." 
