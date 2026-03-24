@@ -5,12 +5,12 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 
 ## Assignment
 
-| Assigment | Link |                                                                                                        
+| Assignment | Link |                                                                                                        
 |---|------|
-| Assigment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
-| Assigment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
-| Assigment 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
-| Assigment 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
+| Assignment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
+| Assignment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
+| Assignment 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
+| Assignment 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
 
 ## Lab
 
@@ -20,6 +20,8 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 | Lab 2 | [View](https://drive.google.com/drive/folders/1gKxVp7Msv1goAc-qVjaii3n9J7L3oZjL) |
 | Lab 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
 | Lab 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
+| Lab 5 | [View](https://drive.google.com/drive/folders/1pm__qNtJRp38SIO3p1g8yYY4NVzPh606) |
+
 
 ## Final Project – LivingBioNetwork
 
