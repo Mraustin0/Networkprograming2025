@@ -5,7 +5,7 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 
 ## Assignment
 
-| Assigment | Link |
+| Assigment | Link |                                                                                                        
 |---|------|
 | Assigment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
 | Assigment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
