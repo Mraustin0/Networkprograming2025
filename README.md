@@ -7,19 +7,19 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 
 | Assigment | Link |
 |---|------|
-| 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
-| 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
-| 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
-| 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
+| Assigment 1 | [View](https://drive.google.com/file/d/1DB6wDfJv0-OfySo8MpbAQ1d7A_EFZdOH/view) |
+| Assigment 2 | [View](https://drive.google.com/file/d/1o1Wlf1D5BoUm1e5vj_5ivEIzYGEgAnih/view) |
+| Assigment 3 | [View](https://drive.google.com/file/d/1xtFVpb6kgQgHO_L7IVqPQdAcgPy1PxaH/view) |
+| Assigment 4 | [View](https://drive.google.com/file/d/1MTq3fB63UxEuIErSeyKDjCp6hp4FETCr/view) |
 
 ## Lab
 
 | Lab | Link |
 |---|------|
-| 1 | [View](https://drive.google.com/drive/folders/1lrjBh2rPB_R8hAyiQWnC_tRvXePCeC58) |
-| 2 | [View](https://drive.google.com/drive/folders/1gKxVp7Msv1goAc-qVjaii3n9J7L3oZjL) |
-| 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
-| 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
+| Lab 1 | [View](https://drive.google.com/drive/folders/1lrjBh2rPB_R8hAyiQWnC_tRvXePCeC58) |
+| Lab 2 | [View](https://drive.google.com/drive/folders/1gKxVp7Msv1goAc-qVjaii3n9J7L3oZjL) |
+| Lab 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
+| Lab 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
 
 ## Final Project – LivingBioNetwork
 
