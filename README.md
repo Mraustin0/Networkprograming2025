@@ -21,6 +21,9 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 | Lab 3 | [View](https://docs.google.com/document/d/1b6seUDwDQGkblKG7FD6fHTNp6NhI96XA/edit#heading=h.aymmukz9s64c) |
 | Lab 4 | [View](https://drive.google.com/file/d/1vxzVsq9obQggzFQRCA72gQGBaqAcMBVb/view) |
 | Lab 5 | [View](https://drive.google.com/drive/folders/1pm__qNtJRp38SIO3p1g8yYY4NVzPh606) |
+| Lab 6 | [View](https://drive.google.com/drive/folders/1RKLv6KUl0JSipsQinyulKukKMb3DTDMT?usp=drive_link) |
+| Lab 7 | [View](https://drive.google.com/drive/folders/1GeKtGz-Hg-OYss7l6lRSB1J61LpL2a0Y?usp=drive_link) |
+
 
 
 ## Final Project – LivingBioNetwork
