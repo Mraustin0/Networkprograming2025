@@ -3,6 +3,12 @@
 
 A weekly lab-based journey from classical sockets to future networks. Building one network agreement in Python every week—simple first, then fragile, then strange.
 
+
+##Certificates
+[Uploading CCNA-_Introduction_to_Networks_certificate_phakawat-s-kkumail-com_53934872-b602-4af2-9c86-2ab43d453a6f.pdf…]()
+
+
+
 ## Assignment
 
 | Assignment | Link |                                                                                                        
