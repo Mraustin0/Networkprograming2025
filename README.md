@@ -5,7 +5,6 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 
 
 ##Certificates
-![alt text](file:///Users/minitinny/Desktop/Screenshot%202569-03-31%20at%2020.47.59.png)
 
 
 ## Assignment
