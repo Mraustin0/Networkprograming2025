@@ -5,7 +5,7 @@ A weekly lab-based journey from classical sockets to future networks. Building o
 
 
 ##Certificates
-[Uploading CCNA-_Introduction_to_Networks_certificate_phakawat-s-kkumail-com_53934872-b602-4af2-9c86-2ab43d453a6f.pdf…]()
+![Uploading Screenshot 2569-03-31 at 20.47.59.png…]()
 
 
 
